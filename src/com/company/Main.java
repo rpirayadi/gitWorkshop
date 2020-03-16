@@ -20,5 +20,6 @@ public class Main {
             else
                 System.out.println(x);
         }
+        System.out.println("hi");
     }
 }
